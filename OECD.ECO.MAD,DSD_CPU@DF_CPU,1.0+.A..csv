@@ -1,0 +1,101 @@
+STRUCTURE,STRUCTURE_ID,STRUCTURE_NAME,ACTION,REF_AREA,Reference area,FREQ,Frequency of observation,MEASURE,Measure,TIME_PERIOD,Time period,OBS_VALUE,Observation value,UNIT_MULT,Unit multiplier,UNIT_MEASURE,Unit of measure,DECIMALS,Decimals
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,CAN,Canada,A,Annual,CPU_NEGATIVE,CPU towards less climate action or a weakening of climate policy,2018,,369.186128538375,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,AUS,Australia,A,Annual,CPU_NEGATIVE,CPU towards less climate action or a weakening of climate policy,2014,,150.134775496173,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,AUS,Australia,A,Annual,CPU_NEGATIVE,CPU towards less climate action or a weakening of climate policy,2015,,128.162940697873,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,AUS,Australia,A,Annual,CPU_NEGATIVE,CPU towards less climate action or a weakening of climate policy,2016,,136.129302740515,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,AUS,Australia,A,Annual,CPU_NEGATIVE,CPU towards less climate action or a weakening of climate policy,2017,,258.554024703377,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,CAN,Canada,A,Annual,CPU_NEGATIVE,CPU towards less climate action or a weakening of climate policy,2017,,241.772748243082,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,AUS,Australia,A,Annual,CPU_POSITIVE,CPU towards more climate action or a strengthening of climate policy,2014,,122.280506589533,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,AUS,Australia,A,Annual,CPU_POSITIVE,CPU towards more climate action or a strengthening of climate policy,2015,,67.9157274667631,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,AUS,Australia,A,Annual,CPU_POSITIVE,CPU towards more climate action or a strengthening of climate policy,2016,,92.0862177703326,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,AUS,Australia,A,Annual,CPU_POSITIVE,CPU towards more climate action or a strengthening of climate policy,2017,,110.123267571005,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,AUS,Australia,A,Annual,CPU_POSITIVE,CPU towards more climate action or a strengthening of climate policy,2018,,174.818416434509,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,AUS,Australia,A,Annual,CPU,Climate Policy Uncertainty,2014,,140.37941,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,AUS,Australia,A,Annual,CPU,Climate Policy Uncertainty,2015,,106.84677,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,AUS,Australia,A,Annual,CPU,Climate Policy Uncertainty,2016,,121.41481,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,AUS,Australia,A,Annual,CPU,Climate Policy Uncertainty,2017,,220.1696,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,AUS,Australia,A,Annual,CPU,Climate Policy Uncertainty,2018,,203.04391,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,DEU,Germany,A,Annual,CPU,Climate Policy Uncertainty,2014,,152.42101,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,DEU,Germany,A,Annual,CPU,Climate Policy Uncertainty,2015,,146.39581,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,DEU,Germany,A,Annual,CPU,Climate Policy Uncertainty,2016,,107.39583,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,FRA,France,A,Annual,CPU,Climate Policy Uncertainty,2018,,216.05449,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,FRA,France,A,Annual,CPU,Climate Policy Uncertainty,2014,,120.58991,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,FRA,France,A,Annual,CPU,Climate Policy Uncertainty,2015,,140.23062,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,FRA,France,A,Annual,CPU,Climate Policy Uncertainty,2016,,152.11844,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,CHL,Chile,A,Annual,CPU,Climate Policy Uncertainty,2018,,66.468628,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,CHL,Chile,A,Annual,CPU,Climate Policy Uncertainty,2014,,173.08665,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,CHL,Chile,A,Annual,CPU,Climate Policy Uncertainty,2015,,87.277626,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,CHL,Chile,A,Annual,CPU,Climate Policy Uncertainty,2016,,93.785728,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,CAN,Canada,A,Annual,CPU_POSITIVE,CPU towards more climate action or a strengthening of climate policy,2014,,114.734724084305,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,CAN,Canada,A,Annual,CPU_POSITIVE,CPU towards more climate action or a strengthening of climate policy,2015,,170.013426181947,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,CAN,Canada,A,Annual,CPU_POSITIVE,CPU towards more climate action or a strengthening of climate policy,2016,,208.114026899699,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,CAN,Canada,A,Annual,CPU_POSITIVE,CPU towards more climate action or a strengthening of climate policy,2017,,199.957856386189,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,CAN,Canada,A,Annual,CPU_POSITIVE,CPU towards more climate action or a strengthening of climate policy,2018,,202.922634964764,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,CAN,Canada,A,Annual,CPU,Climate Policy Uncertainty,2014,,99.227028,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,CAN,Canada,A,Annual,CPU,Climate Policy Uncertainty,2015,,165.58049,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,CAN,Canada,A,Annual,CPU,Climate Policy Uncertainty,2016,,183.8259,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,CAN,Canada,A,Annual,CPU,Climate Policy Uncertainty,2017,,200.88225,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,CAN,Canada,A,Annual,CPU,Climate Policy Uncertainty,2018,,325.29785,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,CAN,Canada,A,Annual,CPU_NEGATIVE,CPU towards less climate action or a weakening of climate policy,2014,,113.207527559021,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,CAN,Canada,A,Annual,CPU_NEGATIVE,CPU towards less climate action or a weakening of climate policy,2015,,196.757314794302,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,CAN,Canada,A,Annual,CPU_NEGATIVE,CPU towards less climate action or a weakening of climate policy,2016,,201.538013492367,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,AUS,Australia,A,Annual,CPU_NEGATIVE,CPU towards less climate action or a weakening of climate policy,2018,,267.10176741332,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,USA,United States,A,Annual,CPU_NEGATIVE,CPU towards less climate action or a weakening of climate policy,2014,,103.72325949763,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,USA,United States,A,Annual,CPU_NEGATIVE,CPU towards less climate action or a weakening of climate policy,2015,,111.449647027275,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,USA,United States,A,Annual,CPU_NEGATIVE,CPU towards less climate action or a weakening of climate policy,2016,,135.779197878786,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,USA,United States,A,Annual,CPU_NEGATIVE,CPU towards less climate action or a weakening of climate policy,2017,,306.188013854263,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,USA,United States,A,Annual,CPU_NEGATIVE,CPU towards less climate action or a weakening of climate policy,2018,,227.092001513562,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,USA,United States,A,Annual,CPU_POSITIVE,CPU towards more climate action or a strengthening of climate policy,2014,,74.5422285352796,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,USA,United States,A,Annual,CPU_POSITIVE,CPU towards more climate action or a strengthening of climate policy,2015,,106.325328987629,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,USA,United States,A,Annual,CPU_POSITIVE,CPU towards more climate action or a strengthening of climate policy,2016,,103.844758262334,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,USA,United States,A,Annual,CPU_POSITIVE,CPU towards more climate action or a strengthening of climate policy,2017,,196.231366218125,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,USA,United States,A,Annual,CPU_POSITIVE,CPU towards more climate action or a strengthening of climate policy,2018,,166.319611877795,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,USA,United States,A,Annual,CPU,Climate Policy Uncertainty,2014,,115.10562,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,USA,United States,A,Annual,CPU,Climate Policy Uncertainty,2015,,124.21082,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,USA,United States,A,Annual,CPU,Climate Policy Uncertainty,2016,,137.01534,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,USA,United States,A,Annual,CPU,Climate Policy Uncertainty,2017,,230.72627,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,GBR,United Kingdom,A,Annual,CPU_POSITIVE,CPU towards more climate action or a strengthening of climate policy,2014,,47.315922803601,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,GBR,United Kingdom,A,Annual,CPU_POSITIVE,CPU towards more climate action or a strengthening of climate policy,2015,,87.6654124716213,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,GBR,United Kingdom,A,Annual,CPU_POSITIVE,CPU towards more climate action or a strengthening of climate policy,2016,,90.6972250907365,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,GBR,United Kingdom,A,Annual,CPU_POSITIVE,CPU towards more climate action or a strengthening of climate policy,2017,,108.349828967801,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,GBR,United Kingdom,A,Annual,CPU_POSITIVE,CPU towards more climate action or a strengthening of climate policy,2018,,81.0769290916554,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,GBR,United Kingdom,A,Annual,CPU,Climate Policy Uncertainty,2014,,111.95026,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,GBR,United Kingdom,A,Annual,CPU,Climate Policy Uncertainty,2015,,118.77367,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,GBR,United Kingdom,A,Annual,CPU,Climate Policy Uncertainty,2016,,161.37778,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,GBR,United Kingdom,A,Annual,CPU,Climate Policy Uncertainty,2017,,180.19363,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,GBR,United Kingdom,A,Annual,CPU,Climate Policy Uncertainty,2018,,144.48175,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,GBR,United Kingdom,A,Annual,CPU_NEGATIVE,CPU towards less climate action or a weakening of climate policy,2014,,100.096003081966,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,GBR,United Kingdom,A,Annual,CPU_NEGATIVE,CPU towards less climate action or a weakening of climate policy,2015,,120.212172971617,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,GBR,United Kingdom,A,Annual,CPU_NEGATIVE,CPU towards less climate action or a weakening of climate policy,2016,,161.458486072591,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,GBR,United Kingdom,A,Annual,CPU_NEGATIVE,CPU towards less climate action or a weakening of climate policy,2017,,217.035245371801,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,ESP,Spain,A,Annual,CPU,Climate Policy Uncertainty,2018,,135.79555,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,ESP,Spain,A,Annual,CPU,Climate Policy Uncertainty,2014,,151.51195,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,ESP,Spain,A,Annual,CPU,Climate Policy Uncertainty,2015,,118.13814,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,ESP,Spain,A,Annual,CPU,Climate Policy Uncertainty,2016,,131.33148,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,NZL,New Zealand,A,Annual,CPU,Climate Policy Uncertainty,2018,,151.4005,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,NZL,New Zealand,A,Annual,CPU,Climate Policy Uncertainty,2014,,59.513134,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,NZL,New Zealand,A,Annual,CPU,Climate Policy Uncertainty,2015,,59.474285,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,NZL,New Zealand,A,Annual,CPU,Climate Policy Uncertainty,2016,,52.382252,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,MEX,Mexico,A,Annual,CPU,Climate Policy Uncertainty,2018,,140.27402,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,MEX,Mexico,A,Annual,CPU,Climate Policy Uncertainty,2014,,147.6517,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,MEX,Mexico,A,Annual,CPU,Climate Policy Uncertainty,2015,,70.20575,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,MEX,Mexico,A,Annual,CPU,Climate Policy Uncertainty,2016,,63.667686,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,ITA,Italy,A,Annual,CPU,Climate Policy Uncertainty,2018,,84.438599,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,ITA,Italy,A,Annual,CPU,Climate Policy Uncertainty,2014,,112.40999,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,ITA,Italy,A,Annual,CPU,Climate Policy Uncertainty,2015,,71.488586,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,ITA,Italy,A,Annual,CPU,Climate Policy Uncertainty,2016,,84.5382,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,IRL,Ireland,A,Annual,CPU,Climate Policy Uncertainty,2018,,148.90788,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,IRL,Ireland,A,Annual,CPU,Climate Policy Uncertainty,2014,,63.036846,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,IRL,Ireland,A,Annual,CPU,Climate Policy Uncertainty,2015,,110.15768,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,IRL,Ireland,A,Annual,CPU,Climate Policy Uncertainty,2016,,122.86428,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,DEU,Germany,A,Annual,CPU,Climate Policy Uncertainty,2018,,103.77562,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,USA,United States,A,Annual,CPU,Climate Policy Uncertainty,2018,,177.10687,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,GBR,United Kingdom,A,Annual,CPU_NEGATIVE,CPU towards less climate action or a weakening of climate policy,2018,,145.264639646235,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,ESP,Spain,A,Annual,CPU,Climate Policy Uncertainty,2017,,90.267616,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,NZL,New Zealand,A,Annual,CPU,Climate Policy Uncertainty,2017,,154.88326,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,MEX,Mexico,A,Annual,CPU,Climate Policy Uncertainty,2017,,122.35418,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,ITA,Italy,A,Annual,CPU,Climate Policy Uncertainty,2017,,69.785439,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,IRL,Ireland,A,Annual,CPU,Climate Policy Uncertainty,2017,,131.47128,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,DEU,Germany,A,Annual,CPU,Climate Policy Uncertainty,2017,,102.87523,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,FRA,France,A,Annual,CPU,Climate Policy Uncertainty,2017,,195.83858,,0,Units,IX,Index,2,Two
+DATAFLOW,OECD.ECO.MAD:DSD_CPU@DF_CPU(1.0),Climate Policy Uncertainty,I,CHL,Chile,A,Annual,CPU,Climate Policy Uncertainty,2017,,33.8009,,0,Units,IX,Index,2,Two
